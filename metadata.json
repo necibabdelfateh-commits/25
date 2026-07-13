@@ -1,0 +1,6 @@
+{
+  "name": "Safe Tech للأنظمة الأمنية والكهربائية",
+  "description": "بوابة مهنية متكاملة لمهندس تركيب كاميرات المراقبة، أنظمة الإنذار، والكهرباء المنزلية. تشمل حاسبة تسعير ذكية، إدارة طلبات المشاريع، ومساعد تقني ذكي مدعوم بـ Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
